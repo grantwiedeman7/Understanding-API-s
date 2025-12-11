@@ -37,7 +37,7 @@ Example:
   "temperature": 42,
   "condition": "Cloudy"
 }
-'''
+```
 
 Back: [How APIs Work](02-how-apis-work.md)
 Next: [Making Your First API Call](04-making-your-first-api-call.md)
