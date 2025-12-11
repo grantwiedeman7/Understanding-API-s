@@ -25,10 +25,10 @@ This tutorial is desinged for:
 ##Tutorial Navigation
 
 1. [What is an API?](01-what-is-an-api.md)
-2. [How APIs Work](
-3. [Understanding Endpoints and JSON]
-4. [Making Your First API Call]
-5. [Common API Errors and How to Fix Them]
+2. [How APIs Work](02-how-apis-work.md)
+3. [Understanding Endpoints and JSON](03-json-and-endpoints.md)
+4. [Making Your First API Call](04-making-your-first-api-call.md)
+5. [Common API Errors and How to Fix Them](05-common-errors.md)
 
 ## Start the Tutorial
-**[Next: WHat is an API?]
+**[Next: What is an API?]
