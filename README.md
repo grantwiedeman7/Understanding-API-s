@@ -31,4 +31,4 @@ This tutorial is desinged for:
 5. [Common API Errors and How to Fix Them](05-common-errors.md)
 
 ## Start the Tutorial
-**[Next: What is an API?]
+**[Next: What is an API?](01-what-is-an-api.md)**
