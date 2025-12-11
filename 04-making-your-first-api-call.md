@@ -54,17 +54,29 @@ This is the basic structure almost every API uses.
 You can customize your request by adding parameters:
 
 ```
-https://www.boredapi.com/api/activity?participants=2
+https://catfact.ninja/facts?limit=3
 ```
 
 Example JSON result:
 
 ```json
 {
-  "activity": "Go for a picnic",
-  "type": "social",
-  "participants": 2
+  "data": [
+    {
+      "fact": "Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.",
+      "length": 114
+    },
+    {
+      "fact": "When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down.",
+      "length": 97
+    },
+    {
+      "fact": "The technical term for a cat’s hairball is a “bezoar.”",
+      "length": 54
+    }
+  ]
 }
+
 ```
 
 Parameters allow you to request more specific data.
