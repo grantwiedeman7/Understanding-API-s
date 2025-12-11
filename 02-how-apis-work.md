@@ -43,4 +43,37 @@ json:
   "condition": "Cloudy"
 }
 
+Your phone then displays:
+**Chicago — 42°F — Cloudy**
+
+---
+**Key Terms**
+
+-Client: The thing making the request
+Examples: browser, app, computer
+
+-Server: The machine receiving and answering the request
+
+-Request: A message you send to the API (what you want)
+
+-Response: The data the API sends back (what you get)
+
+-Endpoint: A specific URL where the API provides data
+Example: /today or /forecast
+
+-Parameters: Extra details added to the request
+Example: ?city=Chicago
+
+---
+**Why Understanding This Matters**
+
+Knowing how APIs work helps you understand:
+
+*How apps communicate
+*How data flows across the internet
+*Why APIs are used in every modern system
+*How to eventually use APIs in your own code
+
+Back: [What is an API?](01-what-is-an-api.md)
+Next: [Understanding Endpoints and JSON](03-json-and-endpoints.md)
 
