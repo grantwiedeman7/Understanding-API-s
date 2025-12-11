@@ -19,6 +19,7 @@ When you visit that link in any browser, the API sends back JSON like this:
   "type": "recreational",
   "participants": 1
 }
+```
 
 ## Step 2: How to Make the Request
 
