@@ -8,16 +8,15 @@ We will use the **Bored API**, which returns a simple activity suggestion.
 
 ## Step 1: The API Endpoint
 
-Here’s the URL: https://www.boredapi.com/api/activity
+Here’s the URL: https://catfact.ninja/fact
 
 
 When you visit that link in any browser, the API sends back JSON like this:
 
 ```json
 {
-  "activity": "Take a walk",
-  "type": "recreational",
-  "participants": 1
+  "fact": "Cats have five toes on their front paws but only four on their back paws.",
+  "length": 79
 }
 ```
 
@@ -30,7 +29,7 @@ Paste the URL into the address bar.
 
 ### 2. Using curl (optional)
 ```
-curl https://www.boredapi.com/api/activity
+curl https://catfact.ninja/fact
 ```
 
 ### 3. Using an API testing tool (optional)
